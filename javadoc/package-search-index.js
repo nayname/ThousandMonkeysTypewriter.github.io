@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"org.deeplearning4j"},{"l":"org.deeplearning4j.objects"},{"l":"org.deeplearning4j.utilities"},{"l":"org.jol.core"},{"l":"org.jol.dl4j.conf"},{"l":"org.jol.dl4j.model"}]

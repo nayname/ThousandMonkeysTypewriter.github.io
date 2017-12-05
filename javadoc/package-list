@@ -1,0 +1,6 @@
+org.deeplearning4j
+org.deeplearning4j.objects
+org.deeplearning4j.utilities
+org.jol.core
+org.jol.dl4j.conf
+org.jol.dl4j.model
